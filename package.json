@@ -3,7 +3,6 @@
     ["pyb_ina219/ina219.py", "github:org/jorgen-17/pyb_ina219/ina219.py"]
   ],
   "deps": [
-    ["github:org/micropython", "main"]
   ],
   "version": "0.1"
 }
